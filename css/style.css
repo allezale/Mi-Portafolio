@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+body {
+    font-family: "Poppins", sans-serif;
+	line-height: 1.5;
+	background-color: #F9F9F9;
+}
+
+header{
+	background-color:#8870AA;
+	padding: 10px 0;
+}
+
+header img{
+	margin-left: 20px;
+}
+	
+header a{
+font-family: "Poppins", sans-serif;
+	font-weight: 600 !important;
+	font-size: 18px !important;
+}
+
+#sobre_mi_hero img {
+max-width: 80%;
+height: auto;
+margin-left: 12%;
+align-content: center;
+margin-bottom: 25px;
+
+}
+
+.text_hero{
+text-align: center;
+margin-top: 10%;
+}
+
+#sobre_mi_hero h2{
+color: #2D1F28;
+font-family: Poppins;
+font-size: 90px;
+font-style: normal;
+font-weight: 800;
+line-height: 60%;
+}
+
+#sobre_mi_hero h1{
+color: #6E405D;
+font-family: Poppins;
+font-size: 45px;
+font-weight: 800;
+}
+
+#sobre_mi_hero p{
+color: #6E405D;
+font-family: Poppins;
+font-size: 20px;
+font-weight: 400;
+letter-spacing: 0.96px;
+}
+
+#sobre_mi_hero{
+background-image: url("../img/back_imagen.png");
+background-position: top center;
+background-size: cover;
+padding-top: 6%;
+}
+
+#bio p {
+text-align: center;
+color: #F9F9F9;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+letter-spacing: 0.96px;
+}
+
+#bio{
+padding: 20px 40px;
+background-color:#D36386;
+}
+
+.btn-dark {
+  background-color: #9fbbee;
+  border: 2px solid #9fbbee;
+  border-radius: 40px;
+  color: #FFFFFF;
+  padding: 10px 20px;
+font-size: 18px;
+font-family: Poppins;
+font-weight: 500;
+margin-bottom: 28px;
+
+}
+
+.btn-dark:hover{
+  background-color: #708EC4;
+  border: 2px solid #708EC4;
+  border-radius: 40px;
+  color: #FFFFFF;
+  padding: 10px 20px;
+  font-size: 22px;
+transition: font-size 0.3s;
+font-family: Poppins;
+font-weight: 500;
+}
+
+footer{
+	background-color: #9C2646;
+	padding: 8px 0;
+	text-align: center;
+	padding-top: 25px;
+	color: #FFFFFF;
+}
+
+#ilustracion h1{
+color: #462038;
+font-family: Poppins;
+font-size: 50px;
+font-style: normal;
+font-weight: 800;
+text-transform: uppercase;
+text-align: center;
+}
+
+
+#ilustracion h2{
+color: #6E405D;
+font-family: Poppins;
+font-size: 30px;
+font-style: normal;
+font-weight: 800;
+text-align: center;
+}
+
+#ilustracion{
+	padding-top: 10%;
+	background-color: #F8F1F3;
+	background-image: url("../img/back_imagen.png");
+	background-position: center;
+	background-size:  cover;
+	
+}
+
+#ilustracion img{
+	margin-bottom: 15px;
+}
+
+
+#interfaces h1{
+color: #462038;
+font-family: Poppins;
+font-size: 50px;
+font-style: normal;
+font-weight: 800;
+text-transform: uppercase;
+text-align: center;
+}
+
+
+#interfaces h2{
+color: #6E405D;
+font-family: Poppins;
+font-size: 30px;
+font-style: normal;
+font-weight: 800;
+text-align: center;
+}
+
+#interfaces h3{
+color: #8870AA;
+font-family: Poppins;
+font-size: 26px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+text-transform: uppercase;
+text-align: center;
+}
+
+#interfaces img{
+	margin-bottom: 15px;
+}
+
+#interfaces{
+	padding-top: 10%;
+	background-color: #F6F1F8;
+background-image: url("../img/back_default.png");
+	background-position: center;
+	background-size: cover;
+	
+		
+}
+
+#animacion h1{
+color: #462038;
+font-family: Poppins;
+font-size: 50px;
+font-style: normal;
+font-weight: 800;
+text-transform: uppercase;
+text-align: center;
+}
+
+#animacion{
+	background-image: url("../img/back_imagen.png");
+	background-position: center;
+	background-size: cover;
+	padding: 6% 0;
+}
+
+
